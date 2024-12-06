@@ -5,7 +5,7 @@ account: mapabancos
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 13070773
-bundleId: 9474129
+bundleId: 9475288
 url: https://mapabancos.shinyapps.io/mapabancos/
 version: 1
 asMultiple: FALSE
